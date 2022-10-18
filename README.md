@@ -10,4 +10,4 @@ are some of my active projects:
 * [WeaponMechanics](https://github.com/WeaponMechanics/MechanicsMain)
 * [WeaponMechanicsCosmetics](https://www.spigotmc.org/resources/104539/)
 * [WebbProcessor](https://github.com/ThunderBird260/WebbProcessor)
-
+* [AutoSupport](https://github.com/CJCrafter/AutoSupport)
