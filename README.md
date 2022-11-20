@@ -4,9 +4,9 @@
   ![Discord](https://img.shields.io/badge/CJCrafter%234522-d?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
   [![Spigot](https://img.shields.io/badge/-CJCrafter1-orange?logo=data%3Aimage%2Fx-icon%3Bbase64%2CAAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAND%2FAOhGOgA%2F6OIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAAAAABEAAAAzMQABEQAAARMzEBERARERETMxERAAAAARMzEAAAAAAAETMwAAAAAAABEwAAAAAAAAERAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAD%2F%2BQAA%2F%2FkAAP%2F5AAD%2F8AAA%2BDAAAPAgAAAAAAAAAAEAAAADAADwDwAA%2FB8AAPwfAAD8HwAA%2Fj8AAP4%2FAADwBwAA)](https://www.spigotmc.org/members/447051/)
   
-  [![CJCrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJCrafter&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![CJCrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJCrafter&theme=onedark&count_private=true&hide=commits)
   
-  [![CJCrafter's Streak](https://streak-stats.demolab.com?user=CJCrafter&theme=onedark)](https://git.io/streak-stats)
+  ![CJCrafter's Streak](https://streak-stats.demolab.com?user=CJCrafter&theme=onedark)
 </div>
 
 
