@@ -1,6 +1,6 @@
 <div align="center">
 
- ![cjcrafter_logo_25](https://user-images.githubusercontent.com/43940682/220187550-54cbdff3-34a6-43b0-8888-bacd5d0f73bd.jpg)
+  ![banner](https://user-images.githubusercontent.com/43940682/220188521-fe06da61-92af-47dd-ba74-b4cde661c48f.png)
 
   [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8KH0aOumN--3Mzjs2k2kcw)
   ![Discord](https://img.shields.io/badge/CJCrafter%234522-d?style=for-the-badge&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
