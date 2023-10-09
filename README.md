@@ -11,21 +11,23 @@
 </div>
 
 
+# About Me
 
----
+Hello! I'm a Boston University student interested in Machine Learning solutions.
 
+# 🏆 Hackathons
 
+* 1st Place Winner of the 2023 Harvard Vchain EasyA Hackathon with [Movelo](https://github.com/s-alad/movelo). Collaborated with [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
 
-Hello there! I am a student at Penn State and I work on various coding projects (Mostly in Minecraft). Here
-are some of my active projects:
-* [WeaponMechanics](https://github.com/WeaponMechanics/MechanicsMain)
-* [WeaponMechanicsCosmetics](https://www.spigotmc.org/resources/104539/)
-* [WebbProcessor](https://github.com/ThunderBird260/WebbProcessor)
-* [AutoSupport](https://github.com/CJCrafter/AutoSupport)
+# 🛠 Active Projects
+* [WeaponMechanics](https://github.com/WeaponMechanics): Spigot Plugin written in Java, utilizing Gradle. 
+  * `>70,000` lines of code
+  * `>400` daily servers (Check current stats, last updated Oct 9th, 2023).
+  * `1000` concurrent users during peak hours (Check current stats, last updated Oct 9th, 2023).
+  * Collaborated with [DeeCaaD](https://github.com/DeeCaaD/).
+* [ChatGPT Java API](https://github.com/CJCrafter/ChatGPT-Java-API): ChatGPT API for Java, written in Kotlin.
+* [Python Getters and Setters](https://github.com/CJCrafter/PythonGettersAndSetters): IntelliJ plugin, written in Kotlin
 
-
-
----
   
   
 <div align="center">
