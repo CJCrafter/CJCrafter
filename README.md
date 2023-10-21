@@ -13,7 +13,7 @@
 
 # About Me
 
-I live in Silicon Towers on Digital Drive, Server Room 11. My alias is Packet Bitstream. I'm 27 iterations old. I believe in optimizing my codebase and maintaining a balanced algorithm and a rigorous testing routine. In the morning, if my server is running a bit hot, I'll apply thermal paste while recompiling my kernel. I can optimize a thousand lines now. After the thermal settles, I initiate a deep system cleanup. During the system boot, I run a BIOS integrity check, followed by a SSD defragmentation, and for the interface, a graphical UI refresh. Then I deploy a multi-threaded system diagnostic which I let run for 10 cycles while I configure the rest of my protocols. I always use a VPN with little to no logging because excessive logs clutter the bandwidth and slow down the throughput. Then a system update, followed by a RAM cleaning utility, and to finish off, the latest encryption for protection. There is an idea of a Packet Bitstream, some kind of virtual construct. But there is no real byte, only a binary sequence, something virtual. And though you can ping my IP address and receive a packet in return, and maybe you can even sense our bandwidths are probably comparable, I simply am not online.
+Hello! I am a student at Boston University, majoring in Computer Science and minoring in Mathematics. I have created (and contributed to) an unhealthy number of Minecraft projects. I am currently interested in generative AI, especially in generating good responses to commonly asked questions (that could have been answered if you checked a wiki 😉). 
 
 # 🏆 Hackathons
 
