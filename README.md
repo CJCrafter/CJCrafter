@@ -18,6 +18,7 @@ Hello! I am a student at Boston University, majoring in Computer Science and min
 # 🏆 Hackathons
 
 * 1st Place Winner of the 2023 Harvard Vchain EasyA Hackathon with [Movelo](https://github.com/s-alad/movelo). Collaborated with [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
+* Impact Track Winner of the 2024 Civic Tech Hackathon with [ZKVote](https://github.com/CJCrafter/zkvote). Collaborated with [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
 
 # 🛠 Active Projects
 * [WeaponMechanics](https://github.com/WeaponMechanics): Spigot Plugin written in Java, utilizing Gradle. 
