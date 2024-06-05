@@ -13,12 +13,13 @@
 
 # About Me
 
-Hello! I am a student at Boston University, majoring in Computer Science and minoring in Mathematics. I have created (and contributed to) an unhealthy number of Minecraft projects. I am currently interested in generative AI, especially in generating good responses to commonly asked questions (that could have been answered if you checked a wiki 😉). 
+Hello! I am the president of the AI/ML club at Boston University. I major in Computer Science and Mathematics. I have created (and contributed to) an unhealthy number of Minecraft projects. I am currently interested in generative AI, especially in generating good responses to commonly asked questions (that could have been answered if you checked a wiki 😉). 
 
 # 🏆 Hackathons
 
 * 1st Place Winner of the 2023 Harvard Vchain EasyA Hackathon with [Movelo](https://github.com/s-alad/movelo). Collaborated with [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
 * Impact Track Winner of the 2024 Civic Tech Hackathon with [ZKVote](https://github.com/CJCrafter/zkvote). Collaborated with [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
+* 2nd Place Winner of the 2024 Consensus Hackathon with [PunchStarter](). Collaborated with [WilliamUW](https://github.com/WilliamUW), [xavierdmello](https://github.com/xavierdmello), [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
 
 # 🛠 Active Projects
 * [WeaponMechanics](https://github.com/WeaponMechanics): Spigot Plugin written in Java, utilizing Gradle. 
