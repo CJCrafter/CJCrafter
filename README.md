@@ -37,5 +37,5 @@ Hello! I am the president of the AI/ML club at Boston University. I major in Com
   ![GitHub Languages](https://api.githubtrends.io/user/svg/CJCrafter/langs?time_range=one_year&theme=dark)
   ![GitHub Repositories](https://api.githubtrends.io/user/svg/CJCrafter/repos?time_range=one_year&theme=dark)
 
-  [![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,unity,cs,cpp,git,gradle,intellij)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,unity,c,cs,cpp,git,gradle,ts,react)](https://skillicons.dev)
 </div>
