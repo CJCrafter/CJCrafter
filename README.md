@@ -19,7 +19,7 @@ Hello! I am the president of the AI/ML club at Boston University. I major in Com
 
 * 1st Place Winner of the 2023 Harvard Vchain EasyA Hackathon with [Movelo](https://github.com/s-alad/movelo). Collaborated with [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
 * Impact Track Winner of the 2024 Civic Tech Hackathon with [ZKVote](https://github.com/CJCrafter/zkvote). Collaborated with [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
-* 2nd Place Winner of the 2024 Consensus Hackathon with [PunchStarter](). Collaborated with [WilliamUW](https://github.com/WilliamUW), [xavierdmello](https://github.com/xavierdmello), [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
+* 2nd Place Winner of the 2024 Consensus Hackathon with [PunchStarter](https://github.com/s-alad/punch-starter). Collaborated with [WilliamUW](https://github.com/WilliamUW), [xavierdmello](https://github.com/xavierdmello), [s-alad](https://github.com/s-alad) and [wjorgensen](https://github.com/wjorgensen).
 
 # 🛠 Active Projects
 * [WeaponMechanics](https://github.com/WeaponMechanics): Spigot Plugin written in Java, utilizing Gradle. 
