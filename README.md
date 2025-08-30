@@ -13,7 +13,7 @@
 
 # About Me
 
-Hello! I am the president of the AI/ML club at Boston University. I major in Computer Science and Mathematics. I have created (and contributed to) an unhealthy number of Minecraft projects. I am currently interested in generative AI, especially in generating good responses to commonly asked questions (that could have been answered if you checked a wiki 😉). 
+Hello! I am the president of the AI Society at Boston University. I major in Computer Science. I have created (and contributed to) an unhealthy number of Minecraft projects.
 
 # 🏆 Hackathons
 
@@ -23,9 +23,8 @@ Hello! I am the president of the AI/ML club at Boston University. I major in Com
 
 # 🛠 Active Projects
 * [WeaponMechanics](https://github.com/WeaponMechanics): Spigot Plugin written in Java, utilizing Gradle. 
-  * `>70,000` lines of code
-  * `>400` daily servers (Check current stats, last updated Oct 9th, 2023).
-  * `1000` concurrent users during peak hours (Check current stats, last updated Oct 9th, 2023).
+  * `>400` daily servers (Check [current stats](https://bstats.org/plugin/bukkit/WeaponMechanics/14323), last updated August 30th, 2025).
+  * `1500` concurrent users during peak hours (Check [current stats](https://bstats.org/plugin/bukkit/WeaponMechanics/14323), last updated August 30th, 2025).
   * Collaborated with [DeeCaaD](https://github.com/DeeCaaD/).
 * [ChatGPT Java API](https://github.com/CJCrafter/ChatGPT-Java-API): ChatGPT API for Java, written in Kotlin.
 * [Python Getters and Setters](https://github.com/CJCrafter/PythonGettersAndSetters): IntelliJ plugin, written in Kotlin
